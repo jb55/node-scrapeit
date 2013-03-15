@@ -3,6 +3,8 @@
 
 Don't think. Scrape.
 
+Simple boilerplate for soupselect + htmlparser + request.
+
 ## Look how easy this is
 
 ```js
