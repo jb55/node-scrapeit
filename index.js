@@ -9,7 +9,7 @@ var parseHtml = function(body, cb) {
   return parser.parseComplete(body);
 };
 
-exports = function(url, cb) {
+module.exports = function(url, cb) {
   request(url, function(err, resp, body) {
     if (err) return cb(err);
     parseHtml(body, function(err, dom) {
