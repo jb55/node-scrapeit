@@ -1,0 +1,19 @@
+{
+  "name": "scrapeit",
+  "version": "0.0.0",
+  "description": "htmlparser + request boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jb55/node-scrapeit.git"
+  },
+  "keywords": [
+    "scrape",
+    "htmlparser"
+  ],
+  "author": "Bill Casarin",
+  "license": "MIT"
+}
